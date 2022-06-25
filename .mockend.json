@@ -1,35 +1,37 @@
 {
-  "Post": {
-    "cover": {
-      "regexp": "https://picsum\\.photos/seed/[0-9]{5}/1920/270"
+  {
+      "id": 1,
+      "name": "Leanne Graham",
+      "title": "Bret",
+      "date": "Sincere@april.biz",
+      "body": "Sincere@april.biz"
     },
-    "title": {
-      "loremWords": {
-        "minLength": 5,
-        "maxLength": 5
-      }
+    {
+      "id": 2,
+      "name": "Leanne Graham",
+      "title": "Bret",
+      "date": "Sincere@april.biz",
+      "body": "Sincere@april.biz"
     },
-    "body": {
-      "loremParagraphs": {
-        "minLength": 10,
-        "maxLength": 100
-      }
+    {
+      "id": 3,
+      "name": "Leanne Graham",
+      "title": "Bret",
+      "date": "Sincere@april.biz",
+      "body": "Sincere@april.biz"
     },
-    "tag": {
-      "string": [
-        "one",
-        "two",
-        "three"
-      ]
+    {
+      "id": 4,
+      "name": "Leanne Graham",
+      "title": "Bret",
+      "date": "Sincere@april.biz",
+      "body": "Sincere@april.biz"
     },
-    "isDraft": {
-      "boolean": {}
-    },
-    "createdAt": {
-      "dateTime": {
-        "min": "2010-01-01T00:00:00Z",
-        "max": "2020-12-31T23:59:59Z"
-      }
+    {
+      "id": 5,
+      "name": "Leanne Graham",
+      "title": "Bret",
+      "date": "Sincere@april.biz",
+      "body": "Sincere@april.biz"
     }
-  }
 }
